@@ -16,6 +16,7 @@ mensaje = """
   adjutando un archivo jpg al final del mensaje
 /-/-/-/-/            /-/-/-/-/
 """
+
 #Objeto
 em = EmailMessage()
 em['From'] = email_emisor
