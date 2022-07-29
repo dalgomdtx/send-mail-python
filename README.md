@@ -25,7 +25,23 @@ Despues:
 ```
 > ## Recuerda NO compartir la clave, es privada.
 
-Ahora todo lo que necesitas es clonar o descargar el repositorio, hacer las modificaciones necesarias y a ejecutar.
+--
+
+# Ejecución
+Clonar o descargar el repositorio:
+```sh
+git clone https://github.com/dalgomdtx/send-mail-python.git
+```
+Acceder a la carpeta:
+```sh
+cd send-mail-python
+```
+Hacer las modificaciones necesarias (agregar correo remitente, destinatario y contraseña).  
+Ejecutar el archivo con el comando:
+```sh
+py send-mail.py
+```
+![email-send](https://user-images.githubusercontent.com/93104850/181861267-9cabdf8d-2c2f-464a-aa68-ef316c99230d.png)
 
 
 ---
