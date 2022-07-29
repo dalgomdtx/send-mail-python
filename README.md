@@ -23,7 +23,7 @@ Antes:
 Despues:
   email_password = 'tu contraseña'
 ```
-> ## Recuerda NO compartir la clave, es privada.
+> ## Recuerda NO compartir tu clave, es privada.
 
 --
 
